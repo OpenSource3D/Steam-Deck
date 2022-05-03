@@ -1,0 +1,3 @@
+[submodule "CAD/hardware"]
+	path = CAD/hardware
+	url = https://gitlab.steamos.cloud/SteamDeck/hardware.git
